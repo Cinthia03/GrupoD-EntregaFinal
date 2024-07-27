@@ -1,0 +1,929 @@
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ProgramacionCapas.Form1.resources
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmProvincias.resources
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ProgramacionCapas.Form1.resources
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmProvincias.resources
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmCantones.resources
+C:\Users\User\Downloads\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ProgramacionCapas.Form1.resources
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmCantones.resources
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmProvincias.resources
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ProgramacionCapas.Form1.resources
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmCantones.resources
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmProvincias.resources
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ProgramacionCapas.Form1.resources
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmCantones.resources
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmProvincias.resources
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ProgramacionCapas.Form1.resources
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmCantones.resources
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmProvincias.resources
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ProgramacionCapas.Form1.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmCantones.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmProvincias.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmCliente_Vehiculo.resources
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMecanico.resources
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmServiciosAdicionales.resources
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmIntegrantes.resources
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmCliente_Vehiculo.resources
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmIntegrantes.resources
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMecanico.resources
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmRepuestos.resources
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmServiciosAdicionales.resources
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmLogin.resources
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMantenimiento.resources
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmCliente_Vehiculo.resources
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmIntegrantes.resources
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmLogin.resources
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMantenimiento.resources
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMecanico.resources
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmRepuestos.resources
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmServiciosAdicionales.resources
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmCliente_Vehiculo.resources
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmIntegrantes.resources
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmLogin.resources
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMantenimiento.resources
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMecanico.resources
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmRepuestos.resources
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmServiciosAdicionales.resources
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\User\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmLogin.resources
+C:\Users\User\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMantenimiento.resources
+C:\Users\User\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmRepuestos.resources
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmCliente_Vehiculo.resources
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmIntegrantes.resources
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmLogin.resources
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMantenimiento.resources
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMecanico.resources
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmRepuestos.resources
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmServiciosAdicionales.resources
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmCliente_Vehiculo.resources
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmIntegrantes.resources
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmLogin.resources
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMantenimiento.resources
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMecanico.resources
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmRepuestos.resources
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmServiciosAdicionales.resources
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmUsuario.resources
+C:\Users\User\Downloads\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmUsuario.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmCliente_Vehiculo.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmIntegrantes.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmLogin.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMantenimiento.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMecanico.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmRepuestos.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmServiciosAdicionales.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmUsuario.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmCliente_Vehiculo.resources
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmIntegrantes.resources
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmLogin.resources
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMantenimiento.resources
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMecanico.resources
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmRepuestos.resources
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmServiciosAdicionales.resources
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmUsuario.resources
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmCliente_Vehiculo.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmIntegrantes.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmLogin.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMantenimiento.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMecanico.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmRepuestos.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmServiciosAdicionales.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmUsuario.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMantenimiento.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmRepuestos.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionClienteVehiculo.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionInventario.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionMecanico.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionServicio.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPres.61CA7C38.Up2Date
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmClientes.resources
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmClientes.resources
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionClienteVehiculo.resources
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionInventario.resources
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionMecanico.resources
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionServicio.resources
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMantenimiento.resources
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmRepuestos.resources
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPres.61CA7C38.Up2Date
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmServicio.resources
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmClientes.resources
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionMecanico.resources
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionServicio.resources
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMantenimiento.resources
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmRepuestos.resources
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmServicio.resources
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPres.61CA7C38.Up2Date
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionRepuestos.resources
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionVehiculos.resources
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionCliente.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmClientes.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionCliente.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionMecanico.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionRepuestos.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionServicio.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionVehiculos.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMantenimiento.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmRepuestos.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmServicio.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPres.61CA7C38.Up2Date
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmClientes.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionCliente.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionMecanico.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionRepuestos.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionServicio.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionVehiculos.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMantenimiento.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmRepuestos.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmServicio.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPres.61CA7C38.Up2Date
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmClientes.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionCliente.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionMecanico.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionRepuestos.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionServicio.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionVehiculos.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMantenimiento.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmRepuestos.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmServicio.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPres.61CA7C38.Up2Date
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmClientes.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionCliente.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionMecanico.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionRepuestos.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionServicio.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionVehiculos.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMantenimiento.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmRepuestos.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmServicio.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPres.61CA7C38.Up2Date
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmClientes.resources
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionCliente.resources
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionMecanico.resources
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionRepuestos.resources
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionServicio.resources
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionVehiculos.resources
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMantenimiento.resources
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmRepuestos.resources
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmServicio.resources
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPres.61CA7C38.Up2Date
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaException.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaException.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaException.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaException.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmClientes.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionCliente.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionMecanico.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionRepuestos.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionServicio.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionVehiculos.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMantenimiento.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmRepuestos.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmServicio.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPres.61CA7C38.Up2Date
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmLogin.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaException.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaException.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmClientes.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionCliente.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionMecanico.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionRepuestos.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionServicio.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmGestionVehiculos.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmMantenimiento.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmRepuestos.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.frmServicio.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPres.61CA7C38.Up2Date
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\ProgramacionCapas\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll

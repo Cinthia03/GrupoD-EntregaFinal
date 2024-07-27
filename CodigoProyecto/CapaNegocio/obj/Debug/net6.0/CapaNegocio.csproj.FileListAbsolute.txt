@@ -1,0 +1,390 @@
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\User\Downloads\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\User\Downloads\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\Downloads\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\Downloads\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Downloads\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Downloads\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\Downloads\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\User\Downloads\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\Downloads\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\User\Downloads\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\Downloads\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNego.81B9D119.Up2Date
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNego.81B9D119.Up2Date
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNego.81B9D119.Up2Date
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNego.81B9D119.Up2Date
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNego.81B9D119.Up2Date
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNego.81B9D119.Up2Date
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNego.81B9D119.Up2Date
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNego.81B9D119.Up2Date
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNego.81B9D119.Up2Date
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNego.81B9D119.Up2Date
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\U3 S14 T1 - Entrega Final\\CodigoProyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{502BEB11-375B-4638-B2B1-8FB5686C4165}|ProgramacionCapas\\CapaPresentacion.csproj|c:\\users\\user\\downloads\\u3 s14 t1 - entrega final\\codigoproyecto\\programacioncapas\\frmmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502BEB11-375B-4638-B2B1-8FB5686C4165}|ProgramacionCapas\\CapaPresentacion.csproj|solutionrelative:programacioncapas\\frmmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502BEB11-375B-4638-B2B1-8FB5686C4165}|ProgramacionCapas\\CapaPresentacion.csproj|C:\\Users\\User\\Downloads\\U3 S14 T1 - Entrega Final\\CodigoProyecto\\programacioncapas\\frmmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{502BEB11-375B-4638-B2B1-8FB5686C4165}|ProgramacionCapas\\CapaPresentacion.csproj|solutionrelative:programacioncapas\\frmmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502BEB11-375B-4638-B2B1-8FB5686C4165}|ProgramacionCapas\\CapaPresentacion.csproj|C:\\Users\\User\\Downloads\\U3 S14 T1 - Entrega Final\\CodigoProyecto\\programacioncapas\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502BEB11-375B-4638-B2B1-8FB5686C4165}|ProgramacionCapas\\CapaPresentacion.csproj|solutionrelative:programacioncapas\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502BEB11-375B-4638-B2B1-8FB5686C4165}|ProgramacionCapas\\CapaPresentacion.csproj|C:\\Users\\User\\Downloads\\U3 S14 T1 - Entrega Final\\CodigoProyecto\\programacioncapas\\frmgestioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502BEB11-375B-4638-B2B1-8FB5686C4165}|ProgramacionCapas\\CapaPresentacion.csproj|solutionrelative:programacioncapas\\frmgestioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B7C679-4D45-417E-9A13-06083A9EF195}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\User\\Downloads\\U3 S14 T1 - Entrega Final\\CodigoProyecto\\capanegocio\\ln_entidades\\cn_mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B7C679-4D45-417E-9A13-06083A9EF195}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\ln_entidades\\cn_mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502BEB11-375B-4638-B2B1-8FB5686C4165}|ProgramacionCapas\\CapaPresentacion.csproj|C:\\Users\\User\\Downloads\\U3 S14 T1 - Entrega Final\\CodigoProyecto\\programacioncapas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502BEB11-375B-4638-B2B1-8FB5686C4165}|ProgramacionCapas\\CapaPresentacion.csproj|solutionrelative:programacioncapas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 251,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmGestionCliente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\U3 S14 T1 - Entrega Final\\CodigoProyecto\\ProgramacionCapas\\frmGestionCliente.cs",
+              "RelativeDocumentMoniker": "ProgramacionCapas\\frmGestionCliente.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\U3 S14 T1 - Entrega Final\\CodigoProyecto\\ProgramacionCapas\\frmGestionCliente.cs",
+              "RelativeToolTip": "ProgramacionCapas\\frmGestionCliente.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAcwJkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T22:27:34.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\U3 S14 T1 - Entrega Final\\CodigoProyecto\\ProgramacionCapas\\frmClientes.cs",
+              "RelativeDocumentMoniker": "ProgramacionCapas\\frmClientes.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\U3 S14 T1 - Entrega Final\\CodigoProyecto\\ProgramacionCapas\\frmClientes.cs",
+              "RelativeToolTip": "ProgramacionCapas\\frmClientes.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAqwEAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T22:26:44.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMantenimiento.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\U3 S14 T1 - Entrega Final\\CodigoProyecto\\ProgramacionCapas\\frmMantenimiento.cs",
+              "RelativeDocumentMoniker": "ProgramacionCapas\\frmMantenimiento.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\U3 S14 T1 - Entrega Final\\CodigoProyecto\\ProgramacionCapas\\frmMantenimiento.cs [Design]",
+              "RelativeToolTip": "ProgramacionCapas\\frmMantenimiento.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:35:34.547Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMantenimiento.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\U3 S14 T1 - Entrega Final\\CodigoProyecto\\ProgramacionCapas\\frmMantenimiento.cs",
+              "RelativeDocumentMoniker": "ProgramacionCapas\\frmMantenimiento.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\U3 S14 T1 - Entrega Final\\CodigoProyecto\\ProgramacionCapas\\frmMantenimiento.cs",
+              "RelativeToolTip": "ProgramacionCapas\\frmMantenimiento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:27:46.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CN_Mantenimiento.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\U3 S14 T1 - Entrega Final\\CodigoProyecto\\CapaNegocio\\LN_Entidades\\CN_Mantenimiento.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\LN_Entidades\\CN_Mantenimiento.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\U3 S14 T1 - Entrega Final\\CodigoProyecto\\CapaNegocio\\LN_Entidades\\CN_Mantenimiento.cs",
+              "RelativeToolTip": "CapaNegocio\\LN_Entidades\\CN_Mantenimiento.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAkwHEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:27:34.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\U3 S14 T1 - Entrega Final\\CodigoProyecto\\ProgramacionCapas\\Program.cs",
+              "RelativeDocumentMoniker": "ProgramacionCapas\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\U3 S14 T1 - Entrega Final\\CodigoProyecto\\ProgramacionCapas\\Program.cs",
+              "RelativeToolTip": "ProgramacionCapas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:20:06.199Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\JCCR\Proyectos.Net\POE 52\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\Downloads\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\Downloads\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Downloads\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Downloads\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Downloads\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Downloads\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\Downloads\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Downloads\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Downloads\POE TENESACA\TENESACA\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\waltd\OneDrive\Escritorio\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Downloads\Tenesaca Pincay Cinthia\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\TENESACA CINTHIA\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Downloads\Proyecto POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\Jeremy\Downloads\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO 2DO PARCIAL\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\Jeremy\Downloads\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\mayor\OneDrive - Universidad de Guayaquil\Escritorio\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Temas\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Downloads\Nueva carpeta\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\Maria\5to Semestre\Prog. Orientada a Eventos\2do Parcial\Tareas\PROYECTO POE\PROYECTO POE\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Base de datos avanzada\1er Parcial\Tarea\Proyecto\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\USER\Documents\Semestre\Const de Soft\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Downloads\PROYECTO CS\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\1er Parcial\Tareas\Proyecto Final\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 2 Seguri\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Avance 3 Seguro\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll

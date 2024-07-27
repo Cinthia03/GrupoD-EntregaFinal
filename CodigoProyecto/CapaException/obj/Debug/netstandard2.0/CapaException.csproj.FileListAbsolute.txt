@@ -1,0 +1,30 @@
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaException\bin\Debug\netstandard2.0\CapaException.deps.json
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaException\bin\Debug\netstandard2.0\CapaException.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaException\bin\Debug\netstandard2.0\CapaException.pdb
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaException\obj\Debug\netstandard2.0\CapaException.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaException\obj\Debug\netstandard2.0\CapaException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaException\obj\Debug\netstandard2.0\CapaException.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaException\obj\Debug\netstandard2.0\CapaException.AssemblyInfo.cs
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaException\obj\Debug\netstandard2.0\CapaException.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaException\obj\Debug\netstandard2.0\CapaException.dll
+C:\Users\USER\Documents\Semestre\Const de Soft\GrupoD-ProyectoTallerMantenimientoA3-main\Codigo.zip y sql\ProgramacionCapas\CapaException\obj\Debug\netstandard2.0\CapaException.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaException\bin\Debug\netstandard2.0\CapaException.deps.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaException\bin\Debug\netstandard2.0\CapaException.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaException\bin\Debug\netstandard2.0\CapaException.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaException\obj\Debug\netstandard2.0\CapaException.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaException\obj\Debug\netstandard2.0\CapaException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaException\obj\Debug\netstandard2.0\CapaException.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaException\obj\Debug\netstandard2.0\CapaException.AssemblyInfo.cs
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaException\obj\Debug\netstandard2.0\CapaException.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaException\obj\Debug\netstandard2.0\CapaException.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Contruccion Software Proyecto\Entrega Final\Codigo\ProgramacionCapas\CapaException\obj\Debug\netstandard2.0\CapaException.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaException\bin\Debug\netstandard2.0\CapaException.deps.json
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaException\bin\Debug\netstandard2.0\CapaException.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaException\bin\Debug\netstandard2.0\CapaException.pdb
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaException\obj\Debug\netstandard2.0\CapaException.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaException\obj\Debug\netstandard2.0\CapaException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaException\obj\Debug\netstandard2.0\CapaException.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaException\obj\Debug\netstandard2.0\CapaException.AssemblyInfo.cs
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaException\obj\Debug\netstandard2.0\CapaException.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaException\obj\Debug\netstandard2.0\CapaException.dll
+C:\Users\User\OneDrive\Archivos UG\6to semestre\Construccion de software\2do Parcial\Tareas\U3 S14 T1 - Entrega Final\Codigo y sql\ProgramacionCapas\CapaException\obj\Debug\netstandard2.0\CapaException.pdb
